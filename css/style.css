@@ -323,7 +323,7 @@ button {
 }
 
 .banner_main {
-  padding: 90px 0 190px 0;
+  padding: 0px 0 190px 0;
 }
 
 .text-bg {
@@ -345,7 +345,7 @@ button {
   color: #fff;
   font-size: 17px;
   line-height: 28px;
-  padding: 40px 0;
+  padding-bottom: 40px;
 }
 
 .text-bg a {
@@ -488,6 +488,15 @@ button {
   display: inline-block;
 }
 
+.projects .titlepage .rules-card span {
+  font-size: 20px;
+  color: #3e3e3e;
+  line-height: 15px;
+  font-weight: bold;
+  padding: 0;
+  /* padding-bottom: 20px;    */
+}
+
 .projects .titlepage h2 {
   color: #272f43;
   font-weight: normal;
@@ -518,6 +527,79 @@ button {
 }
 
 .projects .projects_box .read_more:hover {
+  background: #0891f8;
+}
+
+/** end projects section **/
+
+/** team section **/
+
+.team {
+  padding-top: 90px;
+  position: relative;
+}
+
+/* .team::after {
+  position: absolute;
+  content: "";
+  width: 320px;
+  height: 542px;
+  right: 0;
+  background: url(../images/midil.png);
+  top: -210px;
+  z-index: 0;
+} */
+
+.team .titlepage span {
+  color: #0891f8;
+  font-size: 30px;
+  font-family: "Baloo Chettan", cursive;
+  text-transform: uppercase;
+  line-height: 37px;
+  padding-bottom: 10px;
+  display: inline-block;
+}
+
+.team .titlepage .rules-card span {
+  font-size: 20px;
+  color: #3e3e3e;
+  line-height: 15px;
+  font-weight: bold;
+  padding: 0;
+  /* padding-bottom: 20px;    */
+}
+
+.team .titlepage h2 {
+  color: #272f43;
+  font-size: 25px;
+  font-weight: normal;
+}
+
+.team .project_box {
+  text-align: center;
+}
+
+.team .project_box figure {
+  margin: 0;
+}
+
+.team .projects_box figure img {
+  width: 100%;
+}
+
+.team .projects_box p {
+  color: #000;
+  font-size: 17px;
+  line-height: 28px;
+  padding: 60px 0px 35px 0px;
+}
+
+.team .projects_box .read_more {
+  background: #252525;
+  color: #fff;
+}
+
+.team .projects_box .read_more:hover {
   background: #0891f8;
 }
 
@@ -602,6 +684,16 @@ button {
 .contact .titlepage span {
   font-size: 17px;
   line-height: 28px;
+}
+
+.contact .titlepage h2 {
+  color: #0891f8;
+  font-size: 30px;
+  font-family: "Baloo Chettan", cursive;
+  text-transform: uppercase;
+  line-height: 37px;
+  padding-bottom: 10px;
+  display: block;
 }
 
 .contact {
@@ -786,18 +878,120 @@ ul.social_icon li a:hover {
 } */
 
 .copyright p {
-  color: #fff;
+  color: #dff0ff;
   font-size: 18px;
   line-height: 22px;
   text-align: center;
 }
 
 .copyright a {
-  color: #fff;
+  color: #dff0ff;
 }
 
 .copyright a:hover {
-  color: #23262d;
+  color: #fff;
 }
 
 /** end footer **/
+
+/*------------------------------------------------------------- 
+  Team
+---------------------------------------------------------------*/
+
+.team-wrap {
+  text-align: center;
+}
+
+.staff-content {
+  /*border-radius*/
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.staff-info {
+  padding: 0 10px;
+}
+
+.staff-info span {
+  color: #1abc9c;
+}
+
+.staff-img {
+  position: relative;
+  display: table;
+  margin: 0 auto;
+  background: #fff;
+}
+
+.staff-img {
+  position: relative;
+  display: table;
+  width: 100%;
+}
+
+.staff-img img {
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
+
+.staff-img:hover img {
+  opacity: 1;
+}
+
+.staff-content h5 {
+  margin-bottom: 0.5em;
+}
+
+.staff-content span {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.team-social {
+  margin: 0 auto;
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+  background: #fff;
+  width: 100%;
+  opacity: 0;
+  padding: 7px 0;
+  height: 50px;
+  transition: 0.1s linear;
+  transform: translateY(10px);
+}
+
+.team-social a {
+  display: inline-block;
+  padding: 0 7px;
+}
+
+.team-social a i {
+  font-size: 1.5em;
+  display: table;
+  padding: 8px;
+  color: #484f58;
+}
+
+.sl-fb i:hover {
+  color: #4f689e;
+}
+
+.sl-tw i:hover {
+  color: #74c7d5;
+}
+
+.sl-gp i:hover {
+  color: #df5c64;
+}
+
+.sl-ln i:hover {
+  color: #017eba;
+}
+
+.staff-content:hover .team-social {
+  opacity: 1;
+  transform: translateY(0);
+}
