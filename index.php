@@ -412,7 +412,7 @@
                       <!--person column-->
                      <div class="col-md-4 mb-4">
                
-                        <img class="rounded-circle" alt="100x100" src="./images/avatar.jpg"
+                        <img class="rounded-circle" alt="100x100" src="./images/team/shruti.jpeg"
                           data-holder-rendered="true" style="height: 250px; width: 250px">
                           <h2 class="mt-2 p-0">Shruti Rana</h2>
                         <p class="mt-0" >Graphic Designer</p>
