@@ -129,19 +129,19 @@
                   </div>
                </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                <div class="col-md-10 offset-md-1">
                   <div class="row">
                      <div class="col-md-12">
                         <div class="business_box ">
                            <figure><img src="images/business_img.jpg" alt="#"/></figure>
-                           <!-- <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believableThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable</p>
-                           <a class="read_more" href="#">Read more</a> -->
+                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believableThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable</p>
+                           <a class="read_more" href="#">Read more</a>
                         </div>
                      </div>
                   </div>
                </div>
-            </div>
+            </div> -->
          </div>
       </div>
       <!-- end business -->
@@ -155,10 +155,10 @@
                      <span>Contest Details</span>
                      
                      <div class="rules-card">
-                        <span>Date: </span><a>&nbsp;&nbsp;&nbsp;25th MARCH 2022</a><br>
-                        <span>Duration: </span><a>&nbsp;&nbsp;&nbsp;3 hours</a><br>
-                        <span>Last date for registration: </span><a>&nbsp;&nbsp;&nbsp;23rd MARCH 2022</a><br>
-                        <span>Venue: </span><a>&nbsp;&nbsp;&nbsp;Comming soon</a><br>
+                        <a><b>Date:</b> &nbsp;&nbsp;&nbsp;25th MARCH 2022</a><br>
+                        <a><b>Duration:</b> &nbsp;&nbsp;&nbsp;3 hours</a><br>
+                        <a><b>Last date for registration:</b> &nbsp;&nbsp;&nbsp;23rd MARCH 2022</a><br>
+                        <a><b>Venue:</b> &nbsp;&nbsp;&nbsp;Comming soon</a><br>
                         <p>
                            <br>
                            1. This is Team contest (at max 3 members).<br>
@@ -394,19 +394,19 @@
                      <!--person column-->
                      <div class="col-md-4 mb-4">
                
-                       <img class="rounded-circle" alt="100x100" src="./images/team/ish.png"
-                         data-holder-rendered="true" style="height: 250px; width: 250px">
-                         <h2 class="mt-2 p-0">Ish Thumber</h2>
-                       <p class="mt-0" >Content writer</p>
-                     </div>
-                     <!--person column-->
-                     <!--person column-->
-                     <div class="col-md-4 mb-4">
-               
                         <img class="rounded-circle" alt="100x100" src="./images/team/neelkanth.jpg"
                           data-holder-rendered="true" style="height: 250px; width: 250px">
                           <h2 class="mt-2 p-0">Neelkanth Tandel</h2>
                         <p class="mt-0" >Web developer</p>
+                      </div>
+                      <!--person column-->
+                       <!--person column-->
+                     <div class="col-md-4 mb-4">
+               
+                        <img class="rounded-circle" alt="100x100" src="./images/team/ish.png"
+                          data-holder-rendered="true" style="height: 250px; width: 250px">
+                          <h2 class="mt-2 p-0">Ish Thumber</h2>
+                        <p class="mt-0" >Content writer</p>
                       </div>
                       <!--person column-->
                       <!--person column-->
