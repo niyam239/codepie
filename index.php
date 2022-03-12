@@ -357,7 +357,7 @@
                      <!--person column-->
                      <div class="col-md-4 mb-4">
                
-                       <img class="rounded-circle" alt="100x100" src="./images/avatar.jpg"
+                       <img class="rounded-circle" alt="100x100" src="./images/team/adnan.jpg"
                          data-holder-rendered="true" style="height: 250px; width: 250px">
                          <h2 class="mt-2 p-0">Adnan Vhora</h2>
                        <p class="mt-0" >Coordinator</p>
@@ -366,7 +366,7 @@
                      <!--person column-->
                      <div class="col-md-4 mb-4">
                
-                       <img class="rounded-circle" alt="100x100" src="./images/avatar.jpg"
+                       <img class="rounded-circle" alt="100x100" src="./images/team/kalpit.jpg"
                          data-holder-rendered="true" style="height: 250px; width: 250px">
                          <h2 class="mt-2 p-0">Kalpit Shah</h2>
                        <p class="mt-0" >Coordinator</p>
@@ -376,7 +376,7 @@
                      <!--person column-->
                      <div class="col-md-4 mb-4">
                
-                       <img class="rounded-circle" alt="100x100" src="./images/avatar.jpg"
+                       <img class="rounded-circle" alt="100x100" src="./images/team/shyamal.jpeg"
                          data-holder-rendered="true" style="height: 250px; width: 250px">
                          <h2 class="mt-2 p-0">Shyamal Joshi</h2>
                        <p class="mt-0" >Management team</p>
@@ -421,7 +421,7 @@
                       <!--person column-->
                      <div class="col-md-4 mb-4">
                
-                        <img class="rounded-circle" alt="100x100" src="./images/avatar.jpg"
+                        <img class="rounded-circle" alt="100x100" src="./images/team/yash.jpg"
                           data-holder-rendered="true" style="height: 250px; width: 250px">
                           <h2 class="mt-2 p-0">Yash Narodiya</h2>
                         <p class="mt-0" >Graphic Designer</p>
@@ -431,16 +431,16 @@
                       <!--person column-->
                      <div class="col-md-4 mb-4">
                
-                        <img class="rounded-circle" alt="100x100" src="./images/avatar.jpg"
+                        <img class="rounded-circle" alt="100x100" src="./images/team/vraj.jpeg"
                           data-holder-rendered="true" style="height: 250px; width: 250px">
-                          <h2 class="mt-2 p-0">Vraj Parekh</h2>
+                          <h2 class="mt-2 p-0">Vraj Parikh</h2>
                         <p class="mt-0" >Mentor</p>
                       </div>
                       <!--person column-->
                       <!--person column-->
                      <div class="col-md-4 mb-4">
                
-                        <img class="rounded-circle" alt="100x100" src="./images/avatar.jpg"
+                        <img class="rounded-circle" alt="100x100" src="./images/team/bhautik.jpg"
                           data-holder-rendered="true" style="height: 250px; width: 250px">
                           <h2 class="mt-2 p-0">Bhautik Sudani</h2>
                         <p class="mt-0" >Mentor</p>
@@ -458,7 +458,7 @@
                       <!--person column-->
                      <div class="col-md-4 mb-4">
                
-                        <img class="rounded-circle" alt="100x100" src="./images/avatar.jpg"
+                        <img class="rounded-circle" alt="100x100" src="./images/team/jainil.jpeg"
                           data-holder-rendered="true" style="height: 250px; width: 250px">
                           <h2 class="mt-2 p-0">Jainil Rana</h2>
                         <p class="mt-0" >Mentor</p>
@@ -481,7 +481,7 @@
                   <div class="titlepage">
                      <h2>Contact us</h2>
                      <p>Niyam Muliya</p>
-                     <p><a href="https://wa.me/9879407741" target="_blank">+91 9879407741</a> (Whatsapp)</p>
+                     <p><a href="https://wa.me/+919879407741" target="_blank">+91 9879407741</a> (Whatsapp)</p>
                      <a href="mailto:codingclubcharusat@gmail.com">codingclubcharusat@gmail.com</a>
                   </div>
                </div>
