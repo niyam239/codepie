@@ -314,6 +314,12 @@ button {
   padding: 30px 30px;
 }
 
+.logo-img {
+  height: 100px;
+}
+
+
+
 .logo a {
   font-size: 40px;
   font-weight: bold;
@@ -377,7 +383,8 @@ button {
 }
 
 .text-img figure img {
-  width: 100%;
+  height: auto;
+  width: 493px
 }
 
 .titlepage {
@@ -994,4 +1001,20 @@ ul.social_icon li a:hover {
 .staff-content:hover .team-social {
   opacity: 1;
   transform: translateY(0);
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+  .logo-img {
+    height: 80px;
+  }
+
+  .text-img figure img {
+    height: auto;
+    width: 200px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
 }
